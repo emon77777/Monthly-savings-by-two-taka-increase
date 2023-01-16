@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <div style="width:100%; float:left;">
+    <div style="width:100%; float:left;text-align:center;">
         <div style="width:7%; float:left;">
             <?php
                 $n = 2;
@@ -23,9 +23,9 @@
                         echo "<br>";
                         echo "<br>";
                         echo "=========";
-                        echo "<br><span>";
+                        echo "<br>";
                         echo $res;
-                        echo "</span><br>";
+                        echo "<br>";
                         echo "=========";
                         echo "<br>";
                         echo "<br>";
