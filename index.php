@@ -10,7 +10,6 @@
     <div style="width:100%; float:left;">
         <div style="width:7%; float:left;">
             <?php
-            
                 $n = 2;
                 $res = 0;
                 $total = 0;
