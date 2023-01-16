@@ -23,9 +23,9 @@
                         echo "<br>";
                         echo "<br>";
                         echo "=========";
-                        echo "<br>";
+                        echo "<br><span>";
                         echo $res;
-                        echo "<br>";
+                        echo "</span><br>";
                         echo "=========";
                         echo "<br>";
                         echo "<br>";
