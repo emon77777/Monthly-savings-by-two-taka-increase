@@ -37,11 +37,11 @@
                     }
                 }
                 echo "<br>";
-                echo "=========";
+                echo "========";
                 echo "<br>";
                 echo $res;
                 echo "<br>";
-                echo "=========";
+                echo "========";
                 echo "<br>";
             ?>
         </div>
