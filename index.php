@@ -50,7 +50,6 @@
             <hr>
             <h2><?='Grand Total = '.($total + $res);?></h2>
             <hr>
-            
         </div>
 </body>
 </html>
