@@ -7,6 +7,9 @@
     <title>Document</title>
 </head>
 <body>
+    <div style="text-align: center;">
+        <h1>Daily Savings amount By two Taka Increase</h1>
+    </div>
     <div style="width:100%; float:left;text-align:center;">
         <div style="width:7%; float:left;">
             <?php
@@ -33,8 +36,6 @@
                         echo "<div style='width:7%; float:left;'>";
                     }
                 }
-                echo "<br>";
-                echo "<br>";
                 echo "<br>";
                 echo "=========";
                 echo "<br>";
