@@ -24,8 +24,7 @@
                         echo "<br>";
                         echo "=========";
                         echo "<br>";
-                        echo $res;
-                        echo "<br>";
+                        echo "<h4 style='margin:0px'>".$res."</h4>";
                         echo "=========";
                         echo "<br>";
                         echo "<br>";
