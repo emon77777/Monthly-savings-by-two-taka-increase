@@ -17,10 +17,8 @@
                     echo "<pre>";
                     $n = $n + 2;
                     $res = $res + $n;
-                    echo $i . ' = '. $n;
+                    echo "<p style='margin:0px'>".$i . ' = '. $n."</p>";
                     if($i % 30 == 0){
-                        echo "<br>";
-                        echo "<br>";
                         echo "<br>";
                         echo "=========";
                         echo "<br>";
